@@ -1,0 +1,26 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/bin/yarn add @rails/webpacker coffeescript@1.12.7
+
+PATH: 
+  /home/sh/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/bin:/home/sh/.rbenv/versions/2.5.3/bin:/home/sh/.rbenv/libexec:/home/sh/.rbenv/plugins/ruby-build/bin:/home/sh/.rbenv/shims:/home/sh/.rbenv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/Ruby23/bin:/mnt/c/ProgramData/DockerDesktop/version-bin:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/pik:/mnt/c/Program Files (x86)/Embarcadero/Studio/19.0/bin:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath_target_82664703:/mnt/c/Program Files (x86)/ImageMagick-6.9.9-Q8:/mnt/c/Windows/System32:/mnt/c/Windows:/mnt/c/Windows/System32/wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Program Files/Git/cmd:/mnt/c/Windows/System32/OpenSSH:/mnt/c/Program Files (x86)/Xoreax/IncrediBuild:/mnt/c/Program Files/dotnet:/mnt/c/Program Files/Microsoft SQL Server/130/Tools/Binn:/mnt/c/OpenSSL-Win64/bin:/mnt/c/Program Files/nodejs:/mnt/c/Program Files/CMake/bin:/mnt/c/Program Files (x86)/Windows Kits/10/Windows Performance Toolkit:/mnt/c/ProgramData/ComposerSetup/bin:/mnt/c/Program Files/Microsoft VS Code/bin:/mnt/c/Go/bin:/mnt/c/Ruby26-x64/bin:/mnt/c/Ruby24-x64/bin:/mnt/c/Ruby25-x64/bin:/mnt/c/Users/shunh/AppData/Local/Programs/Python/Python36-32/Scripts:/mnt/c/Users/shunh/AppData/Local/Programs/Python/Python36-32:/mnt/c/Users/shunh/.cargo/bin:/mnt/c/Users/shunh/AppData/Local/Microsoft/WindowsApps:/mnt/c/Program Files/Heroku/bin:/mnt/c/Lib/opencv/build/x86/vc14/bin:/mnt/c/Python26:/mnt/c/Python26/Scripts:/mnt/c/Users/shunh/AppData/Roaming/npm:/mnt/c/msys64/mingw64/bin:/mnt/c/Program Files (x86)/GnuWin32/bin:/mnt/c/PHP:/mnt/c/Users/shunh/AppData/Roaming/Composer/vendor/bin:/mnt/c/Users/shunh/Desktop/Cue/bin:/mnt/c/Users/shunh/go/bin:/snap/bin
+
+Yarn version: 
+  1.15.2
+
+Node version: 
+  10.15.3
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, copyfile '/home/sh/.cache/yarn/v4/npm-uri-js-4.2.2-94c540e1ff772956e2299507c010aea6c8838eb0/node_modules/uri-js/dist/esnext/uri.d.ts' -> '/mnt/c/Users/shunh/Desktop/jets-ovto/node_modules/uri-js/dist/esnext/uri.d.ts'
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
